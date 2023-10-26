@@ -4,6 +4,27 @@
   
   
   <entry>
+    <title>2023年了，我终于给ThinkPad装上了Arch</title>
+    <link href="/2023/10/31/thinkpad-arch/"/>
+    <url>/2023/10/31/thinkpad-arch/</url>
+    
+    <content type="html"><![CDATA[<h1 id="0-写在最前"><a href="#0-写在最前" class="headerlink" title="0. 写在最前"></a>0. 写在最前</h1><p>ThinkPad是我最喜欢的品牌之一：机器耐艹，有很轻薄的机身，（以前）机器自带IO丰富，续航还行，并且以前我用过的唯一一台联想电脑的键盘给我留下了很深的影响。</p><p>我身边也有人觉得ThinkPad不如游戏本，要灯没灯，要性能没性能。这也确实，因为这玩意儿又贵，又做不到性能出众；不过，在性能，轻薄和价格的三色图中求位于中心的产品是不可能的。在使用这一台X1 Carbon 2019长达四年的过程中，我必须要一直忍受她的高温，她的出风口位于机身右侧，常年正对着我的握鼠标的右手。</p><p>去年冬天在家隔离，我购入了一块4K的显示器用于学习（真的吗？），并且我特意选中了带有Type-C接口的机型。到手后接上我的X1C，我终于是觉得这小儿确实开不起4K的大车。</p><p>然后我就爆了大米，在40系N卡发布的前夕，购入了联想Y9000X，然后X1C就移交给了家人使用。</p><p>过了半年，我又把X1C拿回来了，装上了Arch Linux。</p><p>我曾经使用Linux的方式是安装Windows的Linux子系统，因此也一直在使用Ubuntu作为我的主力发行版使用——不如说我一直在使用Ubuntu,从高中的NOI Linux,到WSL的Ubuntu 18.02、20.04、22.04LTS。</p><p>但是一直有人从高中起就在我耳边吹风讲Arch的好，所以我大致还是知道有Arch Linux这个东西的存在。</p><p>今年年中，我第一次尝试在虚拟机中安装Arch。没有图形化的安装界面；可能是我人生第一次用手动的方式分区、挂载、安装软件包；第一次为了一个图形界面而受折磨。最终这个虚拟机还是停留在了装完Arch之后的最初始状态。</p><h1 id="1-为什么我要拿来装-Linux"><a href="#1-为什么我要拿来装-Linux" class="headerlink" title="1. 为什么我要拿来装 Linux"></a>1. 为什么我要拿来装 Linux</h1><p>原因是：Windows的各种小bug让我觉得厌烦。</p><p>可能最开始我也就只是把X1C当成一块试验田，或许当我在ThinkPad上能够用好Arch之后，我就会在Y9000X上安装Arch，但是Y9000X上的3060要驱动起来还是更为麻烦一点。</p><h1 id="2-Arch-给这台电脑和我的生活带来了什么"><a href="#2-Arch-给这台电脑和我的生活带来了什么" class="headerlink" title="2. Arch 给这台电脑和我的生活带来了什么"></a>2. Arch 给这台电脑和我的生活带来了什么</h1><h3 id="1-回归原始的续航表现"><a href="#1-回归原始的续航表现" class="headerlink" title="1. 回归原始的续航表现"></a>1. 回归原始的续航表现</h3><p>X1C &amp; Arch 的性能表现是我觉得很优秀的。静止状态下，电脑的单风扇基本是处于不运转的状态，CPU的利用率也不高，甚至可以说是<strong>有点低</strong>。</p><p><img src="https://s2.loli.net/2023/10/26/En1PwlNiL6thHRC.png" alt="Htop-example"></p><p>这使得它的功耗也不高，电池电量可以从早八撑到下午四五点的样子。</p><h3 id="2-不需要操心的系统"><a href="#2-不需要操心的系统" class="headerlink" title="2. 不需要操心的系统"></a>2. 不需要操心的系统</h3><p>由于联想在前几年就已经将自己的电源管理驱动合入了Linux内核，且X1C使用的都是Intel的核显及网卡，这台电脑在安装完成之后可以说是能够立即投入使用，不必太操心驱动的问题。</p><h3 id="3-能够有个真实的物理机环境让我学习怎么使用Linux"><a href="#3-能够有个真实的物理机环境让我学习怎么使用Linux" class="headerlink" title="3. 能够有个真实的物理机环境让我学习怎么使用Linux"></a>3. 能够有个真实的物理机环境让我学习怎么使用Linux</h3><p>如 <a href="#0-%E5%86%99%E5%9C%A8%E6%9C%80%E5%89%8D">第0节</a> 所言，我以前一直使用的是WSL,且基本就是把Linux当作跑C程序和CUDA的一个环境罢了。现在学习怎么使用Linux，也是为了鞭策自己好好学学操作系统相关的知识。</p><h1 id="3-我在Arch-Linux-里面学到了什么东西"><a href="#3-我在Arch-Linux-里面学到了什么东西" class="headerlink" title="3. 我在Arch Linux 里面学到了什么东西"></a>3. 我在Arch Linux 里面学到了什么东西</h1><p><strong>未完待续</strong></p>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>ThinkPad</tag>
+      
+      <tag>Linux</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>Tomtoc双肩包使用体验</title>
     <link href="/2023/07/25/tomtoc_bag/"/>
     <url>/2023/07/25/tomtoc_bag/</url>
