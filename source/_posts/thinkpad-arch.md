@@ -4,7 +4,7 @@ date: 2023-11-01 00:00:00 +0800
 tags: [ThinkPad, Linux]
 ---
 
-# 0. 我为什么喜欢ThinkPad
+## 0. 我为什么喜欢ThinkPad
 
 ~~其实这个问题可能要称为：我为什么喜欢X1 Carbon~~
 
@@ -14,7 +14,7 @@ tags: [ThinkPad, Linux]
 
 还有一点就是，ThinkPad整个品牌对Linux就很友好，基本也不需要另外打驱动，并且之前联想也有发售预装Linux的ThinkPad。
 
-# 1. 为什么我要拿来装 Linux 
+## 1. 为什么我要拿来装 Linux 
 
 原因是：Windows续航差、风扇常年满转速、X1C性能不足以支撑运行Windows。
 
@@ -25,7 +25,7 @@ tags: [ThinkPad, Linux]
 > 2023/12/31 Update:
 > 已经装上了，但是NV的驱动对wayland的支持就是依托。懒得用。
 
-# 2. Arch 给这台电脑和我的生活带来了什么
+## 2. Arch 给这台电脑和我的生活带来了什么
 
 ### 1. 回归原始的续航表现
 
@@ -45,13 +45,13 @@ X1C & Arch 的性能表现，我觉得是秒杀Windows的。静止状态下，�
 
 我的常用软件，如Vivado和一些IDE,都提供且能够在Linux下完美运行，有的甚至是可以运行得更顺畅。
 
-# 3. 我在Arch Linux 里面学到了什么东西
+## 3. 我在Arch Linux 里面学到了什么东西
 
-## 1. 系统是怎么装的 | 装系统是怎么个过程
+### 1. 系统是怎么装的 | 装系统是怎么个过程
 
 在接触Arch Linux的这几个月里，我至少重装了三次这个系统。分区、挂载、pacstrap、chroot......现在已经是轻车熟路了。
 
-## 2. 怎么上网排错 & 用英文搜索解决方案
+### 2. 怎么上网排错 & 用英文搜索解决方案
 
 现在的生活已经完全离不开StackOverflow、Arch Linux Wiki和Reddit了。我的赛博诊所。
 
