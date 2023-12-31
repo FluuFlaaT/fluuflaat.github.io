@@ -31,7 +31,7 @@ tags: [ThinkPad, Linux]
 
 X1C & Arch 的性能表现，我觉得是秒杀Windows的。静止状态下，电脑的单风扇基本是处于不运转的状态，CPU的利用率也不高，甚至可以说是**低**。
 
-![Htop-example](https://s2.loli.net/2023/10/26/En1PwlNiL6thHRC.png)
+![htop的截图](https://s2.loli.net/2023/10/26/En1PwlNiL6thHRC.png)
 
 这使得它的功耗也不高，电池电量可以从早八撑到下午四五点的样子。
 
